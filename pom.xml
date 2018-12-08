@@ -3,6 +3,8 @@
   <groupId>com.test.maven</groupId>
   <artifactId>com.test.maven</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  
+  <!-- made some changes by GIGI -->
   <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
